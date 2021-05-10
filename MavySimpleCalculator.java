@@ -629,11 +629,11 @@ public class MavySimpleCalculator {
             case 0:
                 normal.setForeground(MavyProps.YELLOW_COLOR);
                 break;
-            // Normal mode
+            // Decimal to Binary mode
             case 1:
                 db.setForeground(MavyProps.YELLOW_COLOR);
                 break;
-            // Normal mode
+            // Binary to Decimal mode
             case 2:
                 bd.setForeground(MavyProps.YELLOW_COLOR);
                 break;
