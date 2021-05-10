@@ -3,7 +3,7 @@
 Beautiful Simple Calculator built with Java Swing
 
 Capable of doing:
-* Arithmetic operations on expressions
+* Evaluating arithmetic expressions with MDAS
 * Convert **Binary** to **Decimal**
 * Convert **Decimal** to **Binary**
 
@@ -12,7 +12,7 @@ This calculator uses **recursive** process to accomplish evaluation of expressio
 ## Note
 
 This app was entirely developed by me, and it includes the following features:
-* Getting left and right operand of the highest operator precedence
+* Getting left and right operand of the highest operator precedence of the expression
 * Conversion between **Binary** to **Decimal** and vice versa
 
 ## Author
@@ -22,15 +22,15 @@ This app was entirely developed by me, and it includes the following features:
 
 * Arithmetic operation
 
-![Arithmetic Operation](screenshots/Screenshot-1.png)
+![Arithmetic Operation](screenshots/Screenshot-1.jpeg)
 
 * Decimal to Binary
 
-![Decimal to Binary](screenshots/Screenshot-2.png)
+![Decimal to Binary](screenshots/Screenshot-2.jpeg)
 
 * Binary to Decimal
 
-![Binary to Decimal](screenshots/Screenshot-3.png)
+![Binary to Decimal](screenshots/Screenshot-3.jpeg)
 
 ## LICENSE
 

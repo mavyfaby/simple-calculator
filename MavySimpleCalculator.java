@@ -407,7 +407,7 @@ public class MavySimpleCalculator {
                 // Split the text by dots
                 final String[] splits = dec.split("\\.");
                 
-                // Convert the string to integer
+                // Convert the string to long
                 long num = Long.parseLong(splits.length > 1 ? splits[0] : dec);
     
                 // While num is greater than 0
