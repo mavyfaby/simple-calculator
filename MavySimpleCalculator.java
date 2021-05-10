@@ -292,17 +292,17 @@ class MavyInputCalculator {
         
                         switch (op) {
                             case 'x':
-                            answer = leftOperand * rightOperand;
+                                answer = leftOperand * rightOperand;
                                 break;
-                                case '/':
+                            case '/':
                                 answer = leftOperand / rightOperand;
                                 break;
                             case '+':
-                            answer = leftOperand + rightOperand;
+                                answer = leftOperand + rightOperand;
                                 break;
                             case '-':
-                            answer = leftOperand - rightOperand;
-                            break;
+                                answer = leftOperand - rightOperand;
+                                break;
                         }
                         
                         final String evaluatedInput = input.replace(input.substring(START_INDEX, END_INDEX), String.valueOf(answer));
