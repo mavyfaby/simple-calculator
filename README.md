@@ -3,7 +3,7 @@
 Beautiful Simple Calculator built with Java Swing
 
 Capable of doing:
-* Evaluating arithmetic expressions with MDAS
+* Evaluate arithmetic expressions with MDAS
 * Convert **Binary** to **Decimal**
 * Convert **Decimal** to **Binary**
 
